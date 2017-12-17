@@ -1,0 +1,2 @@
+# xxcsgo-bot
+bot-xxcsgo
